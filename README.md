@@ -1,4 +1,4 @@
-# ajv-buefy-jsonschema-prototype
+# Prototype - Buefy Field Validation using JSON Schema and AJV
 
 A prototype example to use JSON Schema as the validation rules for Buefy input components.
 
